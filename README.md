@@ -14,11 +14,4 @@ A dependency-free, responsive prototype for the FactWise Technical Product Manag
 
 Open `index.html` in a browser, or serve the folder with any static web server.
 
-## Deploy to Vercel
-
-1. Create a new Vercel project and import this folder or its Git repository.
-2. Select **Other** as the framework preset.
-3. Leave the build command and output directory empty.
-4. Deploy. Vercel will serve `index.html` as the app entry point.
-
 The prototype uses browser session storage only; it does not send or persist real patient data.
